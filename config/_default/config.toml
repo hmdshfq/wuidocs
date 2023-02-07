@@ -1,5 +1,5 @@
-baseurl = "https://doks-child-theme.netlify.app/"
-canonifyURLs = false
+baseurl = "https://hmdshfq.github.io/wuidocs/"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true

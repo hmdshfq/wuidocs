@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "colors"
+    parent: "docs"
     identifier: "colors-3a22ee6831782b0aa9f4489c788f2555"
 weight: 999
 toc: true
