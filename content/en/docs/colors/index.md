@@ -14,7 +14,7 @@ weight: 999
 toc: true
 ---
 
-Each color in the palette can be suffixed with `txt-` (for text) and `bg-` (for background). 
+Each color in the palette can be suffixed with `txt-` (for text) and `bg-` (for background).
 
 For example, if you want the text to be in ![#20B1FD](https://placehold.co/15x15/20B1FD/20B1FD.png) `clr-accent-1`
  color then you can add a class of `txt-clr-accent-1` to the text.
