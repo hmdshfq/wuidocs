@@ -10,6 +10,6 @@ images: []
 
 ## Table of Contents
 
-- [Colors](/docs/colors/)
+- [Colors](docs/colors/)
   - [Primary Colors](docs/colors/#primary-colors)
   - [Neutral Colors](docs/colors/#neutral-colors)
