@@ -1,5 +1,5 @@
 baseurl = "https://hmdshfq.github.io/wuidocs/"
-canonifyURLs = true
+canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
