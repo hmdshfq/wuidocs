@@ -32,8 +32,7 @@ These are the new breakpoints and they can be enabled using the class `grid-cont
 
 | Size | Breakpoint | Max Width |
 | ---- | ---------- | --------- |
-| xxs  | 0          |           |
-| xs   |            |           |
+| xs   | 0          |           |
 | sm   | 650        |           |
 | md   | 1030       |           |
 | lg   | 1230       |           |
